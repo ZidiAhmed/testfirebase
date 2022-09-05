@@ -1,0 +1,15 @@
+{
+  "name": "testfirebase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jquery.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^9.9.4",
+    "firebase-tools": "^10.0.1"
+  }
+}
